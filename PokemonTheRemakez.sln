@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTheRemakez", "PokemonTheRemakez\PokemonTheRemakez\PokemonTheRemakez.csproj", "{EB95F780-BDED-41A0-A64D-9C03289650CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTheRemakezContent", "PokemonTheRemakez\PokemonTheRemakezContent\PokemonTheRemakezContent.contentproj", "{A2DF94FE-27B2-44F0-B7E7-A060679FD482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB95F780-BDED-41A0-A64D-9C03289650CC}.Debug|x86.ActiveCfg = Debug|x86
+		{EB95F780-BDED-41A0-A64D-9C03289650CC}.Debug|x86.Build.0 = Debug|x86
+		{EB95F780-BDED-41A0-A64D-9C03289650CC}.Release|x86.ActiveCfg = Release|x86
+		{EB95F780-BDED-41A0-A64D-9C03289650CC}.Release|x86.Build.0 = Release|x86
+		{A2DF94FE-27B2-44F0-B7E7-A060679FD482}.Debug|x86.ActiveCfg = Debug|x86
+		{A2DF94FE-27B2-44F0-B7E7-A060679FD482}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,139 @@
+Content\frpallet.xnb
+Content\frroute1.xnb
+Content\frroute2.xnb
+Content\frroute22.xnb
+Content\pewtercity.xnb
+Content\pkmnfrlg_viridiancity.xnb
+Content\frroute3.xnb
+Content\frroute21.xnb
+Content\hero.xnb
+Content\Color_test.xnb
+Content\BoyHeroWalk.xnb
+Content\frpallet_collision.xnb
+Content\frroute1_collision.xnb
+Content\pewtercity_collision.xnb
+Content\Resources\Battlesystem\actionMenu.xnb
+Content\Resources\Battlesystem\attackMenu.xnb
+Content\Resources\Battlesystem\backgroundGrass.xnb
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Content\Resources\Battlesystem\basicControlpanelBackground.xnb
+>>>>>>> eafc27cac104125b00c71586ec8c24ee3ad2e191
+=======
+Content\Resources\Battlesystem\basicControlpanelBackground.xnb
+>>>>>>> Comments
+=======
+Content\Resources\Battlesystem\basicControlpanelBackground.xnb
+>>>>>>> yeahaye
+Content\Resources\Battlesystem\choiceArrow.xnb
+Content\Resources\Battlesystem\lvlPokemonBottom.xnb
+Content\Resources\Battlesystem\lvlPokemonTop.xnb
+Content\Resources\Battlesystem\pokeballsTrainerBottom.xnb
+Content\Resources\Battlesystem\pokeballsTrainerTop.xnb
+Content\Resources\Battlesystem\textArrow.xnb
+Content\Resources\Battlesystem\TrainerEnemy.xnb
+Content\Resources\Battlesystem\TrainerHero.xnb
+Content\Resources\Pokemon\pokemon.xnb
+Content\Resources\Trainers\TrainerEnemy.xnb
+Content\Resources\Trainers\TrainerHero.xnb
+Content\Resources\Trainers\trainers2.xnb
+Content\Resources\Battlesystem\elements.xnb
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Content\Fonts\ControlFont.xnb
+Content\Size10.xnb
+Content\Size8.xnb
+Content\Size7.xnb
+Content\Audio\route1.xnb
+Content\Audio\pallet.xnb
+Content\Audio\pewter.xnb
+Content\Audio\battle.xnb
+=======
+>>>>>>> eafc27cac104125b00c71586ec8c24ee3ad2e191
+=======
+>>>>>>> Comments
+=======
+>>>>>>> yeahaye
+Content\Resources\Trainers\BlackFlash.xnb
+Content\Resources\Trainers\ChatBubble.xnb
+Content\Resources\Trainers\GiovanniLarge.xnb
+Content\Resources\Trainers\SabrinaLarge.xnb
+Content\Resources\Trainers\Giovanni.xnb
+Content\Resources\Trainers\Sabrina.xnb
+Content\treeLoop.xnb
+Content\BattleFrame.xnb
+Content\Resources\Trainers\LehmannLarge.xnb
+Content\Resources\Battlesystem\textPanel.xnb
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Content\Audio\SoundEffects\hit.xnb
+Content\Audio\victory.xnb
+Content\Audio\SoundEffects\deployPokeBall.xnb
+Content\Audio\PokemonCries\Alakazam.xnb
+Content\Audio\trainerAppears.xnb
+=======
+>>>>>>> eafc27cac104125b00c71586ec8c24ee3ad2e191
+=======
+>>>>>>> Comments
+=======
+>>>>>>> yeahaye
+Content\Resources\IntroText\controlls.xnb
+Content\Resources\IntroText\Intro1.xnb
+Content\Resources\IntroText\Intro2.xnb
+Content\Resources\IntroText\Intro3.xnb
+Content\Resources\IntroText\Intro4.xnb
+Content\Resources\StartScreen\Background.xnb
+Content\Resources\StartScreen\Charizard.xnb
+Content\Resources\StartScreen\logo_flash_1.xnb
+Content\Resources\StartScreen\logo_flash_2.xnb
+Content\Resources\StartScreen\logo_flash_3.xnb
+Content\Resources\StartScreen\logo_flash_4.xnb
+Content\Resources\StartScreen\logo_flash_5.xnb
+Content\Resources\StartScreen\Pokemon_logo.xnb
+Content\Resources\StartScreen\Press_start.xnb
+Content\Defeat.xnb
+Content\Victory.xnb
+Content\name_pointer.xnb
+Content\name_select.xnb
+Content\next_button.xnb
+Content\pica_1.xnb
+Content\pica_2.xnb
+Content\Resources\Trainers\TallGrass.xnb
+Content\Resources\Trainers\Lehmann.xnb
+Content\Fonts\ControlFont.xnb
+Content\Size10.xnb
+Content\Size8.xnb
+Content\Size7.xnb
+Content\Audio\route1.xnb
+Content\Audio\pallet.xnb
+Content\Audio\pewter.xnb
+Content\Audio\battle.xnb
+Content\Audio\SoundEffects\hit.xnb
+Content\Audio\victory.xnb
+Content\Audio\SoundEffects\deployPokeBall.xnb
+Content\Audio\PokemonCries\Alakazam.xnb
+Content\Audio\trainerAppears.xnb
+Content\Audio\lugiaSong.xnb
+Content\Audio\PokemonCries\Arcanine.xnb
+Content\Audio\PokemonCries\Gyarados.xnb
+Content\Audio\PokemonCries\Onix.xnb
+Content\Audio\PokemonCries\Pidgeot.xnb
+Content\Audio\PokemonCries\Rapidash.xnb
+Content\Audio\PokemonCries\Rattata.xnb
+Content\Audio\PokemonCries\Scyther.xnb
+Content\Audio\PokemonCries\Pidgey.xnb
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Content\Resources\Trainers\LehmannLarge.xnb
+Content\Resources\Trainers\Lehmann.xnb
+=======
+>>>>>>> eafc27cac104125b00c71586ec8c24ee3ad2e191
+=======
+>>>>>>> Comments
+=======
+>>>>>>> yeahaye
